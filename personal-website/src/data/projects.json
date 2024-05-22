@@ -1,26 +1,10 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Phishing Detection Chrome Extension",
+    "imageSrc": "projects/safety.jpg",
+    "description": "This is a project made to detect phishing websites on the internet in real time.",
+    "skills": ["Python", "JavaScript", "HTML/CSS", "ML"],
+    "demo": "https://chromewebstore.google.com/detail/phishing-detector/cabopcoihblkeaejhikolkoaipheaifl?hl=en&authuser=0",
+    "source": "https://github.com/jaiveerbhaidasna/Phishing-Detection-Chrome-Extension"
   }
 ]

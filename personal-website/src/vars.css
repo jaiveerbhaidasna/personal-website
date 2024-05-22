@@ -2,11 +2,19 @@
 :root {
     /* Colors */
     --color-text: #fff;
-    --color-primary: #576cbc;
-    --color-secondary: #19376d;
-    --color-dark: #0b2447;
-    --color-bg: #04152d;
+    --color-primary: #5f6366;
+    --color-secondary: #2d4159;
+    --color-dark: #4d6d9a;
+    --color-bg: #191b33;
 
     /* Fonts */
     --font-robot: 'Roboto';
 }
+
+/* 
+--color-text: #fff;
+    --color-primary: #576cbc;
+    --color-secondary: #19376d;
+    --color-dark: #0b2447;
+    --color-bg: #04152d;
+*/

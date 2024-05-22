@@ -13,7 +13,8 @@
     "organization": "Fiserv",
     "startDate": "June 2021",
     "endDate": "August 2022",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
+    "experiences": ["Organized the COBOL code migration from the use of Bitbucket to the new software interface NetCOBOL", 
+    "Generated and executed test cases and testing scenarios (black box, white box) for the Print application development team"],
     "imageSrc": "history/fiserv.png"
   },
   {
@@ -22,8 +23,7 @@
     "startDate": "May 2019",
     "endDate": "August 2019",
     "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
+      "Worked with other technicians and line workers to test, debug, and repair Cisco computer server blades"
     ],
     "imageSrc": "history/foxconn.jpg"
   }

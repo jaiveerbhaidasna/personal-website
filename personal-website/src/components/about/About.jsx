@@ -7,30 +7,32 @@ export const About = () => {
     <section className = {styles.container} id = 'about'>
         <h2 className = {styles.title}> About Me</h2>
         <div className = {styles.content}> 
-            <img src = {getImageUrl('about/aboutImage.png')}  alt = 'Laptop placeholder' className = {styles.aboutImage}/>
+            <img src = {getImageUrl('about/aboutpic.jpg')}  alt = 'Laptop placeholder' className = {styles.aboutImage}/>
             <ul className = {styles.aboutItems}>
 
                 <li className = {styles.aboutItem}> 
                     <img src = {getImageUrl('about/cursorIcon.png')}  alt = 'Cursor Icon' />
                     <div className = {styles.aboutItemText}>
-                        <h3> Fill in </h3>
-                        <p> Fill in the blank with stuff</p> 
+                        <h3> Data Driven Developer </h3>
+                        <p> I mostly enjoy working with large datasets by developing mathematical models and making predictions, but I'm open to new 
+                            experiences in different fields </p> 
                     </div>
                 </li>
 
                 <li className = {styles.aboutItem}> 
                     <img src = {getImageUrl('about/serverIcon.png')}  alt = 'Server Icon' />
                     <div className = {styles.aboutItemText}>
-                        <h3> Fill in </h3>
-                        <p> Fill in the blank with stuff</p> 
+                        <h3> Avid Learner </h3>
+                        <p> I graduated from Georgia Tech with a MS in Computational Science and Engineering in 2023. Before that, I graduated from
+                            UT Austin with both a BS in Computer Engineering and a BS in Mathematics in 2022</p> 
                     </div>
                 </li>
 
                 <li className = {styles.aboutItem}> 
                     <img src = {getImageUrl('about/uiIcon.png')}  alt = 'UI Icon'/>
                     <div className = {styles.aboutItemText}>
-                        <h3> Fill in </h3>
-                        <p> Fill in think blank with stuff</p> 
+                        <h3> Balanced Lifestyle </h3>
+                        <p> Outside of programming, my hobbies include gaming, watching/playing different sports, and trying new foods</p> 
                     </div>
                 </li>
             
