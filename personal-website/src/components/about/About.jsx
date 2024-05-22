@@ -11,7 +11,7 @@ export const About = () => {
             <ul className = {styles.aboutItems}>
 
                 <li className = {styles.aboutItem}> 
-                    <img src = {getImageUrl('about/cursorIcon.png')}  alt = 'Cursor Icon' />
+                    <img src = {getImageUrl('about/table.png')}  alt = 'Table Icon' />
                     <div className = {styles.aboutItemText}>
                         <h3> Data Driven Developer </h3>
                         <p> I mostly enjoy working with large datasets by developing mathematical models and making predictions, but I'm open to new 
@@ -20,7 +20,7 @@ export const About = () => {
                 </li>
 
                 <li className = {styles.aboutItem}> 
-                    <img src = {getImageUrl('about/serverIcon.png')}  alt = 'Server Icon' />
+                    <img src = {getImageUrl('about/grad.png')}  alt = 'Grad Icon' />
                     <div className = {styles.aboutItemText}>
                         <h3> Avid Learner </h3>
                         <p> I graduated from Georgia Tech with a MS in Computational Science and Engineering in 2023. Before that, I graduated from
@@ -29,7 +29,7 @@ export const About = () => {
                 </li>
 
                 <li className = {styles.aboutItem}> 
-                    <img src = {getImageUrl('about/uiIcon.png')}  alt = 'UI Icon'/>
+                    <img src = {getImageUrl('about/headset.png')}  alt = 'Headset Icon'/>
                     <div className = {styles.aboutItemText}>
                         <h3> Balanced Lifestyle </h3>
                         <p> Outside of programming, my hobbies include gaming, watching/playing different sports, and trying new foods</p> 
